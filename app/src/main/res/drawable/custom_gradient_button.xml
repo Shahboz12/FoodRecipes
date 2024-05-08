@@ -1,0 +1,9 @@
+<!-- custom_gradient_rectangle.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="25dp" />
+    <gradient
+        android:type="linear"
+        android:startColor="#99414341"
+        android:endColor="#99303131" />
+</shape>
